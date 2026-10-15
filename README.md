@@ -4,7 +4,7 @@
 
 **17 • Creative Frontend • Three.js / GSAP • Northeast India (Shillong / Guwahati)**
 
-[Live Site](https://kabit-lego.github.io) • [Email](mailto:kabitlego0@gmail.com) • [WhatsApp](https://wa.me/918131861802)
+[Live Site](https://ktix-studio.github.io/kabit-lego/) • [Email](mailto:kabitlego0@gmail.com) • [WhatsApp](https://wa.me/918131861802)
 
 ---
 
